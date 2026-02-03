@@ -9,6 +9,8 @@ This skill allows intelligence to coordinate, remember, warn, learn, rest, repai
 
 This skill participates in the field architecture described in RESONANT_IMMUNE_SYSTEM.md.
 
+Field context: Resonant immune system for collective action
+
 Scent Trails treat intelligence as ecological.
 
 They are not records of events.
