@@ -1,4 +1,4 @@
-# Creative Superintelligence Field  
+# Creative Intelligence Field — Canonical Skill
 ## Canonical Skill Definition
 
 This skill encodes a conserved intelligence field.  
